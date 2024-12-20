@@ -63,3 +63,13 @@ Microsserviços São:
 - Comece pelas beiradas:
   - Comece a migraçaão com áreas de menor risco. Com isso a equipe consegue ter experiência e fica mais claro as próximas migrações.
 - Padrão de estrangulamento
+
+# Características
+## Componentização:
+9 Características sobre microsserviços por Martin Folwer:
+- Componentização via serviços:
+  - Um componente é uma unidade de software que é independentemente substituivel e atualizavel;
+  - Bibliotecas são consideradas componentes em memória, ou seja, está dentro de toda aplicação que está rodando;
+  - Serviços por outro lado estão separados do processo principal da aplicação;
+  - Serviços são independentemente deployável.
+- 
